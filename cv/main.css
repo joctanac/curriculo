@@ -1,0 +1,64 @@
+
+.container{
+    position: relative;
+    background-color: rgb(142, 155, 165);
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    color: black;
+    text-align:  center;
+    margin-top: 10px;
+}
+.foto{
+    vertical-align: auto;
+    height: 207px;
+    width: 200px;
+    left: AUTO;
+    right: AUTO;
+    
+}
+#fotonome{
+
+    text-align:  center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(142, 155, 165);
+    border: 1px solid rgb(0, 0, 0);
+    height: 210px;
+    width: 200px;
+
+}
+#informação{
+    background-color: rgb(142, 155, 165);
+        border: 1px solid rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        height: 210px;
+        width: 200px;
+}
+#CONTATO{
+    background-color:rgb(142, 155, 165);
+        color: white;
+        border: 1px solid rgb(0, 0, 0);
+        height: 210px;
+        width: 200px;
+}
+#formação{
+    background-color: rgb(142, 155, 165);
+    color: white;
+        border: 1px solid rgb(0, 0, 0);
+        height: 210px;
+        width: 200px;
+}
+#objetivo{
+    background-color:rgb(142, 155, 165);
+        color: white;
+        border: 1px solid rgb(0, 0, 0);
+        height: 210px;
+        width: 200px;
+}
+.dados{
+
+    border: 1px solid rgb(0, 0, 0);
+   background-color: rgb(228, 238, 230);
+   color: black;
+
+}
